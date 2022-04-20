@@ -1,1 +1,1 @@
-## Caspisec.com - Subdomain Takeover
+## Docs
